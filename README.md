@@ -77,3 +77,12 @@ Three different modules. I use the first.
 - Module::Build
 - Module::Install
 
+# CI
+- Travis
+- CircleCI
+- ...
+
+
+# Maitentance 
+
+Updating the Makefile.PL write tests below t/Example/Module.pm. 
